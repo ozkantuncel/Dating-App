@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/image/sinflixsplash.png
+  color_dark: "#121212"
+  android: true
+  ios: false
+  web: false
+  fullscreen: true
+  android_12:
+    image: assets/image/sinflixsplash.png
+    fullscreen: true

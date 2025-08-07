@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117585679976",
+    "project_id": "dating-app-2e620",
+    "storage_bucket": "dating-app-2e620.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117585679976:android:86872c66a05c2ffcc08ddd",
+        "android_client_info": {
+          "package_name": "com.nodelabs.dating.dating_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUVrb9IorZchigo3bZ17Qce2_uyTf0TVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
